@@ -7,8 +7,6 @@ This example launches a binary using `-p` flag and tracks its memory usage. Idea
 
 ```shell
 TIME     EVENT COMM             PID     PPID    REQUESTED BYTES  TOTAL
-HELLO
-BYE
 20:19:32 MMAP   allsyscall       10965   10964    4096             4096            
 20:19:32 MMAP   allsyscall       10965   10964    4096             8192            
 20:19:32 MMAP   allsyscall       10965   10964    4096             12288           
